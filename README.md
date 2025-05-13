@@ -37,13 +37,22 @@ This repository contains the tasks completed as part of the **Codveda Technologi
 
 ---
 
+## 🎥 Project Demo (Video Submission)
+
+📺 [Click to watch the video walkthrough](https://your-video-link-here.com)  
+*(Replace this link with your actual YouTube or Google Drive link)*
+
+---
+
 ##  Author
 
 **Ashwani Kumar Mishra**  
 Intern at Codveda Technologies  
-GitHub: [@Ashwani720](https://github.com/Ashwani720)
+ Email: ashwani.m720@gmail.com  
+ GitHub: [@Ashwani720](https://github.com/Ashwani720)
 
 ---
+
 
 
 
