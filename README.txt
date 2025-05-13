@@ -1,8 +1,49 @@
-Codveda Technologies - Internship Tasks by Ashwani Kumar Mishra
+#  Codveda Internship Tasks - Ashwani Kumar Mishra
 
- Task 1: Portfolio Webpage (HTML, CSS)
- Task 2: To-Do List App (HTML, CSS, JS, Local Storage)
- Task 3: Responsive Layout (Flexbox & CSS Grid)
+This repository contains the tasks completed as part of the **Codveda Technologies Web Development Internship**.
 
-GitHub Link (if any): "https://github.com/Ashwani720"
-Demo video link: [if you record one]
+---
+
+##  Task 1: Personal Portfolio Website
+
+- Created a **responsive portfolio website** using HTML, CSS, and media queries.
+- Sections included:
+  - About Me
+  - Projects
+  - Contact Form
+- Optimized layout for mobile and desktop views.
+
+ Preview: `index.html` inside `Task 1` folder.
+
+---
+
+##  Task 2: Responsive Web Layout
+
+- Designed a **responsive web layout** using Flexbox and CSS Grid.
+- Layout adapts to different screen sizes and resolutions.
+- Mobile-first approach used.
+
+🔗 Preview: `index.html` inside `Task 2` folder.
+
+---
+
+##  Task 3: Form Design + Validation
+
+- Built a clean **HTML form with CSS styling**.
+- Includes form validation (HTML5 attributes).
+- Designed for a smooth and accessible user experience.
+
+🔗 Preview: `index.html` inside `Task 3` folder.
+
+---
+
+## 👨‍💻 Author
+
+**Ashwani Kumar Mishra**  
+Intern at Codveda Technologies  
+GitHub: [@Ashwani720](https://github.com/Ashwani720)
+
+---
+
+
+
