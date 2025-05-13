@@ -23,7 +23,7 @@ This repository contains the tasks completed as part of the **Codveda Technologi
 - Layout adapts to different screen sizes and resolutions.
 - Mobile-first approach used.
 
-🔗 Preview: `index.html` inside `Task 2` folder.
+ Preview: `index.html` inside `Task 2` folder.
 
 ---
 
@@ -33,11 +33,11 @@ This repository contains the tasks completed as part of the **Codveda Technologi
 - Includes form validation (HTML5 attributes).
 - Designed for a smooth and accessible user experience.
 
-🔗 Preview: `index.html` inside `Task 3` folder.
+ Preview: `index.html` inside `Task 3` folder.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ashwani Kumar Mishra**  
 Intern at Codveda Technologies  
