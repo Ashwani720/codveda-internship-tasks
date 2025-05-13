@@ -37,9 +37,9 @@ This repository contains the tasks completed as part of the **Codveda Technologi
 
 ---
 
-## 🎥 Project Demo (Video Submission)
+## Project Demo (Video Submission)
 
-📺 [Click to watch the video walkthrough](https://your-video-link-here.com)  
+ [Click to watch the video walkthrough](https://your-video-link-here.com)  
 *(Replace this link with your actual YouTube or Google Drive link)*
 
 ---
