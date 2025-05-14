@@ -48,7 +48,7 @@ Watch the project demo here:
 
 **Ashwani Kumar Mishra**  
 Intern at Codveda Technologies  
- Email: ashwani.m720@gmail.com  
+ Email: itashwani1@gmail.com
  GitHub: [@Ashwani720](https://github.com/Ashwani720)
 
 ---
